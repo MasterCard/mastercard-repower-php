@@ -1,0 +1,4 @@
+TAP version 13
+ok 1 - MasterCard\Api\Repower\AllTest::test_1
+ok 2 - MasterCard\Api\Repower\AllTest::test_2
+1..2

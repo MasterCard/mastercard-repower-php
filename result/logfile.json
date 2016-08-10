@@ -1,0 +1,35 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 2
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "test": "MasterCard\\Api\\Repower\\AllTest::test_1"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "test": "MasterCard\\Api\\Repower\\AllTest::test_1",
+    "status": "pass",
+    "time": 2.9868860244751,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "test": "MasterCard\\Api\\Repower\\AllTest::test_2"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "test": "MasterCard\\Api\\Repower\\AllTest::test_2",
+    "status": "pass",
+    "time": 1.4800660610199,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
