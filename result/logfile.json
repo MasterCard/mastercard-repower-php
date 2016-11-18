@@ -1,0 +1,35 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 2
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "test": "MasterCard\\Api\\Repower\\AllTest::test_1_example_repower_transfer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "test": "MasterCard\\Api\\Repower\\AllTest::test_1_example_repower_transfer",
+    "status": "pass",
+    "time": 0.78058886528015,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "test": "MasterCard\\Api\\Repower\\AllTest::test_2_example_repower_transfer_reversal"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Repower\\AllTest",
+    "test": "MasterCard\\Api\\Repower\\AllTest::test_2_example_repower_transfer_reversal",
+    "status": "pass",
+    "time": 0.45330691337585,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

@@ -1,0 +1,4 @@
+MasterCard\Api\Repower\All
+ [x] 1 example repower transfer
+ [x] 2 example repower transfer reversal
+

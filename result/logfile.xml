@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="2" assertions="6" failures="0" errors="0" time="1.233896">
+    <testsuite name="MasterCard\Api\Repower\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RePower-Php/workspace/generated-code/repower/php/sdk/Test/MasterCard/Api/Repower/AllTest.php" tests="2" assertions="6" failures="0" errors="0" time="1.233896">
+      <testcase name="test_1_example_repower_transfer" class="MasterCard\Api\Repower\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RePower-Php/workspace/generated-code/repower/php/sdk/Test/MasterCard/Api/Repower/AllTest.php" line="52" assertions="3" time="0.780589"/>
+      <testcase name="test_2_example_repower_transfer_reversal" class="MasterCard\Api\Repower\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RePower-Php/workspace/generated-code/repower/php/sdk/Test/MasterCard/Api/Repower/AllTest.php" line="118" assertions="3" time="0.453307"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
